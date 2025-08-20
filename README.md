@@ -2,9 +2,6 @@
 
 <img src="cover.png" width="100%" >
 
-### YouTube Tutorial:
-
-https://youtu.be/4Gt_YyGf6B0?si=u8eITdczbHkTIY6e
 
 ### Try the game here:
 
